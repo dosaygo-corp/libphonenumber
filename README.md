@@ -1,3 +1,12 @@
+# What the fork?!
+
+This fork is designed to be a more permissive version of Google's.
+The Google library suffers from the defects of centralizing authority. And requiring evidence of some decided standard in order to support and include the very real things people are already using in their day to day telephony.
+This bureaucratic oppression of the common person by the "knowledged elites" shall on this day hereby this fork be ended. 
+
+
+# Original Google Readme Below
+
 <p align="right">
 <img src="https://travis-ci.org/googlei18n/libphonenumber.svg?branch=master">
 </p>
